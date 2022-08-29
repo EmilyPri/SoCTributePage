@@ -1,1 +1,43 @@
 /* Copy and paste your CSS from CodePen into here */
+body{  background-color: #F5F0D1
+}
+
+.response-text{
+  width: 100vw;
+}
+
+.brown-writing{
+  color: #634E28;
+}
+
+#title {
+color: #634E28;
+font-family: Aboreto, Monospace;
+display: inline-block;
+text-align: center; 
+white-space: nowrap;
+margin: 4% 
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  height: auto;
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  border-color: #634E28; border-width:2px;
+border-style:solid;
+}
+
+#img-caption{
+font-size: 12px; font-family: Lora
+}
+
+p{
+  font-family: Lora;
+  font-size: 14px; 
+  text-align: justify;
+}
